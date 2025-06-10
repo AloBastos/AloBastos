@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @AloBastos
-- 👀 I’m interested in programing in pyton
-- 🌱 I’m currently learning business
-- 💞️ I’m looking to collaborate on AI and Pyton to 
-- 📫 How to reach me aloeng@gmail.com
-- 😄 Pronouns: Master
-- ⚡ Fun fact: Im a driver
+👋 Hi there! I'm Aloisio Bastos (AloBastos)
+I work with agile products and digital product management, and I'm now expanding my journey into the world of programming. With a background in mechanical engineering and the automotive industry — including technical procurement, transportation, and body development — I bring a strong foundation in solving complex problems and delivering value-driven solutions.
 
-<!---
-AloBastos/AloBastos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 I'm passionate about connecting technology, product, and education.
+📚 Author of eBooks like "Scrum Essencial" and "Desvendando o Invisível", where I explain technical topics — such as embedded systems and IoT — in a clear and approachable way.
+🛠️ On this GitHub, you'll find personal projects, code experiments, educational content, and simple tools I’ve built to solve real-world problems.
+
+🚀 Areas of Interest
+Digital Product Management
+
+Agile Methodologies (Scrum, Kanban, Lean)
+
+Embedded Systems and IoT
+
+APIs and Integrations
+
+Learning Programming (especially backend and automation)
+
+Transportation, Logistics, and Engineering
+
+Technical Writing and Education
+
+📫 Let’s Connect
+I'm always open to discussing product, tech, career paths, and continuous learning.
+🔗 LinkedIn | ✉️ alobastos@email.com
