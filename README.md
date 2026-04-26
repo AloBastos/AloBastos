@@ -3,14 +3,14 @@ I work with agile products and digital product management, and I'm now expanding
 
 💡 I'm passionate about connecting technology, product, and education.
 📚 Author of eBooks like "Scrum Essencial" and "Desvendando o Invisível", where I explain technical topics — such as embedded systems and IoT — in a clear and approachable way.
-🛠️ On this GitHub, you'll find personal projects, code experiments, educational content, and simple tools I’ve built to solve real-world problems.
+🛠️ On this GitHub, you'll find personal projects, code experiments and simple tools I’ve built to solve real-world problems.
 
 🚀 Areas of Interest
 Digital Product Management
 
 Agile Methodologies (Scrum, Kanban, Lean)
 
-Embedded Systems and IoT
+Infrastructure On Premisses and Cloud
 
 APIs and Integrations
 
@@ -18,8 +18,6 @@ Learning Programming (especially backend and automation)
 
 Transportation, Logistics, and Engineering
 
-Technical Writing and Education
-
 📫 Let’s Connect
 I'm always open to discussing product, tech, career paths, and continuous learning.
-🔗 LinkedIn | ✉️ alobastos@email.com
+🔗 LinkedIn | ✉️ aloeng@gmail.com
